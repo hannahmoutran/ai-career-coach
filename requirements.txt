@@ -1,3 +1,4 @@
 halo
 openai
 pyyaml
+pyperclip
