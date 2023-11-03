@@ -87,13 +87,13 @@ if __name__ == '__main__':
     conversation.append({'role': 'system', 'content': open_file('system_01_intake.md')})
     user_messages = list()
     all_messages = list()
-    print('Talk about the job you are applying for. Type DONE when done.')
+    print('\n\nTell me about the job you are applying for.\nTo input long texts, type help.\nWhen you are ready to move on to the next step, type DONE.')
     
-    ## INTAKE PORTION
+    ## INTAKE
     
     while True:
         # get user input
-        text = input_with_commands('\n\nJob Seeker (to input long texts-job descriptions, etc, type help) : ').strip()
+        text = input_with_commands('\n\nJob Seeker (remember to type help for long texts) : ').strip()
         if text == 'DONE':
             break
         user_messages.append(text)
@@ -104,7 +104,7 @@ if __name__ == '__main__':
         all_messages.append('INTAKE: %s' % response)
         print('\n\nCareer Coach Extraordinaire:\n\n%s' % response)
     
-    ## CHARTING NOTES
+    ## NOTES
     
     print('\n\nGenerating Notes')
     conversation = list()
@@ -114,35 +114,35 @@ if __name__ == '__main__':
     save_file('logs/log_%s_chat.txt' % time(), chat_log)
     conversation.append({'role': 'user', 'content': chat_log})
     notes, tokens = chatbot(conversation)
-    print('\n\nNotes version of conversation:\n\n%s' % notes)
     save_file('logs/log_%s_notes.txt' % time(), notes)
+    print('\n\nNotes from conversation:\n\n%s' % notes)
     
-    ## GENERATING REPORT
+    ## GENERATING COVER LETTER
 
-    print('\n\nGenerating Hypothesis Report')
+    print('\n\nGenerating Cover Letter...Remember to always edit before sending!')
     conversation = list()
-    conversation.append({'role': 'system', 'content': open_file('system_03_diagnosis.md')})
+    conversation.append({'role': 'system', 'content': open_file('system_03_writer.md')})
     conversation.append({'role': 'user', 'content': notes})
-    report, tokens = chatbot(conversation)
-    save_file('logs/log_%s_diagnosis.txt' % time(), report)
-    print('\n\nHypothesis Report:\n\n%s' % report)
+    cover_letter, tokens = chatbot(conversation)
+    save_file('logs/log_%s_writer.txt' % time(), cover_letter)
+    print('\n\nCover Letter:\n\n%s' % cover_letter)
 
-    ## CLINICAL EVALUATION
+    ## INTERVIEW PREP
 
-    print('\n\nPreparing for Clinical Evaluation')
+    print('\n\nNotes on Preparing for the Interview')
     conversation = list()
-    conversation.append({'role': 'system', 'content': open_file('system_04_clinical.md')})
+    conversation.append({'role': 'system', 'content': open_file('system_04_interviewprep.md')})
     conversation.append({'role': 'user', 'content': notes})
-    clinical, tokens = chatbot(conversation)
-    save_file('logs/log_%s_clinical.txt' % time(), clinical)
-    print('\n\nClinical Evaluation:\n\n%s' % clinical)
+    interview_notes, tokens = chatbot(conversation)
+    save_file('logs/log_%s_interviewprep.txt' % time(), interview_notes)
+    print('\n\nHow to Prep for the Interview:\n\n%s' % interview_notes)
 
-    ## REFERRALS & TESTS
+    ## ONLINE PRESENCE AND RELATED JOBS
 
-    print('\n\nGenerating Referrals and Tests')
+    print('\n\nTips for Improving Online Presence and Searching for Related Jobs')
     conversation = list()
-    conversation.append({'role': 'system', 'content': open_file('system_05_referrals.md')})
+    conversation.append({'role': 'system', 'content': open_file('system_05_careercoach.md')})
     conversation.append({'role': 'user', 'content': notes})
-    referrals, tokens = chatbot(conversation)
-    save_file('logs/log_%s_referrals.txt' % time(), referrals)
-    print('\n\nReferrals and Tests:\n\n%s' % referrals)
+    career_recommendations, tokens = chatbot(conversation)
+    save_file('logs/log_%s_careercoach.txt' % time(), career_recommendations)
+    print('\n\nOnline Presence and Related Jobs:\n\n%s' % career_recommendations)
