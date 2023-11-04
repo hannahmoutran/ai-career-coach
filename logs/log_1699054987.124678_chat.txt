@@ -1,0 +1,75 @@
+<<BEGIN Job Seeker INTAKE CHAT>>
+
+Job Seeker : Taxonomist: Do you enjoy organizing information and structuring knowledge that describes the world around you? Are you passionate about travel? Then we look forward to talking to you. Our team culture provides a safe environment to spark your creativity and encourage continuous learning and growth. The Content Platform provides a portfolio of products to revolutionize traveller experiences throughout the customer journey. We work across Expedia Group (EG)’s diverse portfolio of brands and lines of business. We assemble, maintain, and distribute content assets including Media, Text, Reviews, Property Data Geographical Data, Destination Data, and more. Through innovative knowledge-based systems and machine learning models we synthesize unique insights to answer questions about travel. The Content Systems team, established in Montreal over 10 years ago, is dedicated to delivering high quality and relevant content at scale. We recognize that a well conceptualized Taxonomy is foundational in providing relevance for data tagging and we are enhancing our digital environment to improve our delivery of the right content to the right customer at the right time. We provide concept management and distribution capabilities that are based on fully semantic technologies and principles. We build vocabularies and define logical relationships and constraints between concepts. The common vocabulary we curate provides a consistent language across Expedia, used by humans and machines. What you’ll do: • Perform tasks related to onboarding and training of new business users of our taxonomy tool • Perform tasks related to gathering and analysis of business requirements • Maintain and support curated taxonomies, perform data quality validation and upkeep documentation as needed • Assist in delivering focused solutions based on the user experience principles of relevancy, simplicity, and consistency • Develop an understanding of the impacts and dependencies of content decisions across product flows and systems • Estimate work effort and help clarify work details and timelines • Develop an understanding of the organization's processes, objectives, and challenges and their impact on the business • Develop an understanding of the needs of our various audiences Who you are: • 2-4 years’ experience working with Content Management Systems • Experience developing content strategies, information architecture or semantic strategies for large enterprise web sites or applications, especially consumer-facing and transaction-focused interfaces • Experience in knowledge organization theory, semantic standards (RDF, SKOS), and taxonomy management tools and software • Some understanding of and interest in Data Science, Natural Language Processing and Machine Learning • Good communication skills and the ability to influence others • Bachelor's Degree in Information Studies, Information Systems, Information Architecture, Design, Communications, English language or Literature, Journalism, Philosophy, or similar disciplines; or equivalent related professional experience
+
+INTAKE: Great! It sounds like an exciting opportunity. Now, could you please copy and paste your resume into the chat? Include any work experience, education information, and technical skills that you think are relevant to this job.
+
+Job Seeker : Profile: Jane Doe
+Contact Information:
+Email: janedoe@email.com
+LinkedIn: linkedin.com/in/janedoe
+GitHub: github.com/janedoe
+
+Objective:
+Highly motivated and detail-oriented data science enthusiast with a strong educational background in Information Science, seeking to apply my skills in machine learning, data analysis, and statistical modeling.
+
+Work Experience:
+Data Analyst | XYZ Tech, Austin, TX | June 2022 - Present (1 year)
+Conducted data preprocessing and cleaning on large datasets, improving data quality by 30%.
+Implemented machine learning algorithms to predict customer churn, achieving an accuracy of 90%.
+
+Intern, Data Science | ABC Corp, San Francisco, CA | May 2021 - August 2021
+Built a recommendation engine that increased user engagement by 25%.
+Analyzed A/B test results and presented insights to the product team.
+
+Intern, Business Intelligence | DEF Industries, New York, NY | June 2020 - August 2020
+Created dashboards and reports in Tableau for senior management.
+Assisted in data collection and database management.
+
+Education:
+Master of Science in Information Science, Data Science Track | University of Texas at Austin
+Expected Graduation: May 2024
+Relevant Courses: Machine Learning, Data Mining, Statistical Methods
+
+Bachelor of Science in Computer Science | University of Someplace
+Graduated: May 2022
+GPA: 3.8
+
+Technical Skills:
+Programming Languages: Python, R, SQL
+Data Analysis Tools: Pandas, NumPy, Scikit-learn
+Data Visualization: Matplotlib, Tableau
+Big Data Technologies: Hadoop, Spark
+Machine Learning Frameworks: TensorFlow, PyTorch
+Database Management: MySQL, MongoDB
+
+Soft Skills:
+Communication: Excellent written and verbal communication skills.
+Teamwork: Experienced in cross-functional team environments.
+Problem-Solving: Strong analytical and critical thinking abilities.
+Adaptability: Quickly adapt to new technologies and methodologies.
+
+Language Skills:
+English: Fluent (Native)
+Spanish: Conversational
+
+Qualities:
+Attention to Detail: Committed to accuracy and excellence in all tasks.
+Leadership: Served as team leader in multiple academic and professional projects.
+Innovative: Always looking for new ways to approach problems and improve processes.
+Ethical: Committed to the responsible use of data and AI.
+Lifelong Learner: Continuously updating skills through courses, webinars, and self-study.
+
+INTAKE: Thank you for providing your resume, Jane! Your experience as a Data Analyst and your educational background in Information Science make you a strong candidate for the Taxonomist position. Your skills in machine learning, data analysis, and statistical modeling will be valuable in maintaining and supporting curated taxonomies.
+
+Your work experience highlights your ability to preprocess and clean large datasets, implement machine learning algorithms, and analyze A/B test results. These experiences demonstrate your proficiency in data analysis and your ability to deliver focused solutions based on user experience principles.
+
+Your technical skills in programming languages such as Python, R, and SQL, as well as your knowledge of data analysis tools like Pandas and NumPy, will be essential in performing tasks related to gathering and analyzing business requirements. Additionally, your experience with data visualization tools like Tableau will be beneficial in developing an understanding of the impacts and dependencies of content decisions across product flows and systems.
+
+Your soft skills, including excellent communication, teamwork, problem-solving, and adaptability, will contribute to your success in collaborating with cross-functional teams and effectively communicating with stakeholders.
+
+Lastly, your language skills in English and conversational Spanish are an asset, especially in a diverse and global organization like Expedia Group.
+
+I will now start working on your cover letter. It may take a few minutes, but I assure you that I will provide you with a strong and convincing cover letter tailored to this specific job. You've done a great job in presenting your qualifications, and I'm confident that we can create a compelling cover letter that highlights your strengths.
+
+<<END Job Seeker INTAKE CHAT>>

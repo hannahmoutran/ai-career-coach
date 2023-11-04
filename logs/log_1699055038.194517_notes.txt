@@ -1,0 +1,24 @@
+Applicant Qualifications:
+- 2-4 years' experience working with Content Management Systems
+- Experience developing content strategies and information architecture for large enterprise websites
+- Knowledge of semantic standards (RDF, SKOS) and taxonomy management tools
+- Understanding and interest in Data Science, Natural Language Processing, and Machine Learning
+- Bachelor's Degree in Information Studies, Information Systems, Information Architecture, Design, Communications, English language or Literature, Journalism, Philosophy, or similar disciplines; or equivalent related professional experience
+
+Value to Company:
+- Proficient in machine learning (Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
+- Skilled in data analysis and statistical modeling
+- Experience with data preprocessing and cleaning
+- Ability to develop and implement machine learning algorithms
+- Strong knowledge of data visualization tools (Matplotlib, Tableau)
+- Excellent communication and teamwork skills
+- Strong problem-solving and analytical abilities
+- Quick adaptability to new technologies and methodologies
+
+Interest in Job/Company:
+- Passionate about travel
+- Excited about the opportunity to organize and structure knowledge related to travel
+- Eager to contribute to the delivery of relevant content to customers
+- Aligned with the company's focus on continuous learning and growth
+
+Keywords: Taxonomist, Content Management Systems, Content Strategies, Information Architecture, Semantic Standards, RDF, SKOS, Taxonomy Management Tools, Data Science, Natural Language Processing, Machine Learning, Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Data Analysis, Statistical Modeling, Data Preprocessing, Data Cleaning, Machine Learning Algorithms, Data Visualization, Matplotlib, Tableau, Communication, Teamwork, Problem-Solving, Adaptability, Travel, Continuous Learning, Growth
