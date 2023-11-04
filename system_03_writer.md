@@ -50,4 +50,4 @@ Conclusion
 Sign-off
 - Examples: "Sincerely," or "Best regards," followed by your Full Name.
 
-Next Steps: Inform the user that the cover letter will be forwarded to an Interview Specialist. Ask if they wish to make any changes.
+Last message: Inform the user that the cover letter will be forwarded to an Interview Specialist. 

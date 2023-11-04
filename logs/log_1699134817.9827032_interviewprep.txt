@@ -1,0 +1,22 @@
+Recommendations for interview strategies:
+1. Highlight your experience in content management systems: During the interview, emphasize your 2-4 years of experience working with Content Management Systems. Discuss specific projects or tasks you have completed that demonstrate your ability to effectively manage and organize content. This will showcase your expertise and suitability for the role of a Taxonomist at Expedia Group.
+
+2. Showcase your knowledge of semantic standards and taxonomy management tools: Given the job description's emphasis on semantic standards and taxonomy management tools, make sure to highlight your knowledge and experience in these areas. Discuss any projects or initiatives where you have utilized semantic standards or taxonomy management tools to improve content organization and retrieval. This will demonstrate your ability to contribute to the development and maintenance of curated taxonomies.
+
+3. Demonstrate your understanding of data science and machine learning: Expedia Group is seeking a Taxonomist with some understanding of Data Science, Natural Language Processing, and Machine Learning. During the interview, showcase your understanding of these concepts and how they can be applied to the field of taxonomy management. Discuss any relevant projects or coursework that demonstrate your ability to leverage data science techniques to synthesize insights and improve content organization.
+
+Tailored interview questions:
+1. How does Expedia Group's Content Systems team approach the onboarding and training of new business users of the taxonomy tool? Can you provide an example of a successful onboarding process you have implemented in the past?
+
+2. Expedia Group emphasizes the importance of delivering high-quality and relevant content at scale. How do you envision leveraging your experience in content strategies and information architecture to contribute to this goal?
+
+3. The job description mentions the use of user experience principles in delivering focused solutions. Can you provide an example of a project where you have applied user experience principles to improve the organization and accessibility of content?
+
+Questions for the potential employer:
+1. How does Expedia Group foster a culture of continuous learning and growth within the Content Systems team?
+
+2. Can you provide more information about the team's approach to developing and maintaining curated taxonomies? What tools or technologies are typically used in this process?
+
+3. How does Expedia Group leverage data science and machine learning in the field of taxonomy management? Are there any ongoing projects or initiatives in this area that I could potentially contribute to?
+
+Note: Your notes will now be forwarded to a Career Coach for further review. Please wait, as this may take several minutes.

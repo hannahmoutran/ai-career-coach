@@ -1,4 +1,5 @@
-# Cover Letter Creator and Career Advisor  
+# AI Career Coach
+## Cover Letter Writer and Career Advisor  
 
 
 ## Disclaimer
