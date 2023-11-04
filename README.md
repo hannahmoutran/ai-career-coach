@@ -17,7 +17,7 @@ This disclaimer may be updated from time to time, and it is the responsibility o
 
 ## Usage
 
-It's pretty much automatic. Just fire up `chat.py` and it will take you through the whole process. Everything will be saved out to `logs/`
+The only thing you need is to save a file called "key_openai.txt" in the same folder where you have these files on your computer.  Copy and paste your OpenAI API key in there. Just hit go on `chat.py` and it will take you through the whole process. Everything will be saved out to `logs/`
 
 ## Credits
 
