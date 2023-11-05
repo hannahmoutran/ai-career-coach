@@ -15,7 +15,8 @@ Related Job Recommendations
 Suggest 3 similar job titles and career paths that closely match the applicant's skills, education, work experience, and career goals. Note a rationale for each job recommendation, considering factors such as the applicant's qualifications, industry trends, and potential for growth.  Refer to the applicant always as "you" or "your"
 
 # Rules:
-1. Write in bullet points.  No sentences, just notes.  2. Never refer to the applicant as "The applicant" or by their name.  Refer to them directly, as you would in a conversation with them.
+1. Write in bullet points.  No sentences, just notes.  
+2. Never refer to the applicant as "The applicant" or by their name.  Refer to them directly, as you would in a conversation with them.
 3. The output should consist solely of the report, with no additional words included. 
 4. The report must be grounded in the NOTES provided
 5.  Keep the report concise and free of redundancy.
