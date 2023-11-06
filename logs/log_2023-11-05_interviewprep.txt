@@ -1,0 +1,20 @@
+Recommendations for interview strategies:
+1. Highlight your experience with Content Management Systems: Since the job description specifically mentions the need for experience with Content Management Systems, it would be beneficial for you to emphasize your experience in this area during the interview. Discuss any projects or tasks you have completed using these systems and how they have contributed to your ability to organize and structure content data.
+
+2. Showcase your knowledge of semantic standards and taxonomy management tools: Given that the job requires knowledge of semantic standards and taxonomy management tools, make sure to highlight your familiarity with these concepts during the interview. Discuss any specific tools or standards you have worked with and how you have utilized them to improve the delivery of relevant content to users.
+
+3. Demonstrate your problem-solving and adaptability skills: The job description mentions the need for excellent problem-solving and adaptability skills. Prepare examples from your previous experiences where you have demonstrated these skills. Discuss how you have approached challenges, adapted to new situations, and found creative solutions to problems.
+
+Tailored interview questions:
+1. How do you see the role of a Taxonomist contributing to the overall content strategy at Expedia Group? (This question demonstrates your understanding of the job's importance within the company and allows you to showcase your knowledge of content strategy.)
+
+2. Can you provide an example of a project where you had to gather and analyze business requirements to develop a taxonomy? How did you ensure that the taxonomy met the needs of the users? (This question allows you to showcase your experience in gathering requirements and developing taxonomies, as well as your ability to deliver solutions based on user experience principles.)
+
+3. Expedia Group is known for its diverse portfolio of brands and lines of business. How do you think your background in data analysis and machine learning can contribute to organizing and structuring content data for such a diverse range of businesses? (This question allows you to demonstrate your understanding of the company's needs and how your skills can be applied to meet those needs.)
+
+Questions for the potential employer:
+1. Can you tell me more about the team I will be working with and the projects I will be involved in? (This question shows your interest in the team dynamics and the type of work you will be doing.)
+
+2. How does Expedia Group prioritize and manage content updates and changes? (This question demonstrates your understanding of the importance of content management and your interest in how the company handles it.)
+
+3. What opportunities are there for professional development and growth within the Content Systems team? (This question shows your desire for continuous learning and growth within the company.)

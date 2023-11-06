@@ -1,5 +1,6 @@
 import openai
-from time import time, sleep
+from time import sleep
+from datetime import datetime
 from halo import Halo
 import textwrap
 import pyperclip
@@ -34,20 +35,19 @@ def input_with_commands(prompt):
     
     return text
 
-
 ###     file operations
 
+def get_current_date_formatted():
+    # Returns the current date formatted as a string 'YYYY-MM-DD'
+    return datetime.now().strftime('%Y-%m-%d')
 
 def save_file(filepath, content):
     with open(filepath, 'w', encoding='utf-8') as outfile:
         outfile.write(content)
 
-
-
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as infile:
         return infile.read()
-
 
 ###     API functions
 
@@ -89,7 +89,6 @@ def chat_print(text):
     formatted_text = '\n'.join(formatted_lines)
     print('\n\n\nCHATBOT:\n\n%s' % formatted_text)
 
-
 if __name__ == '__main__':
     openai.api_key = open_file('key_openai.txt').strip()
     
@@ -121,10 +120,10 @@ if __name__ == '__main__':
     conversation.append({'role': 'system', 'content': open_file('system_02_prepare_notes.md')})
     text_block = '\n\n'.join(all_messages)
     chat_log = '<<BEGIN Job Seeker INTAKE CHAT>>\n\n%s\n\n<<END Job Seeker INTAKE CHAT>>' % text_block
-    save_file('logs/log_%s_chat.txt' % time(), chat_log)
+    save_file('logs/log_{}_chat.txt'.format(get_current_date_formatted()), chat_log)
     conversation.append({'role': 'user', 'content': chat_log})
     notes, tokens = chatbot(conversation)
-    save_file('logs/log_%s_notes.txt' % time(), notes)
+    save_file('logs/log_{}_notes.txt'.format(get_current_date_formatted()), notes)
     print('\n\nNotes from conversation:\n\n%s' % notes)
     
     ## GENERATING COVER LETTER
@@ -134,7 +133,7 @@ if __name__ == '__main__':
     conversation.append({'role': 'system', 'content': open_file('system_03_writer.md')})
     conversation.append({'role': 'user', 'content': notes})
     cover_letter, tokens = chatbot(conversation)
-    save_file('logs/log_%s_writer.txt' % time(), cover_letter)
+    save_file('logs/log_{}_writer.txt'.format(get_current_date_formatted()), cover_letter)
     print(cover_letter)
 
     ## INTERVIEW PREP
@@ -143,7 +142,7 @@ if __name__ == '__main__':
     conversation.append({'role': 'system', 'content': open_file('system_04_interviewprep.md')})
     conversation.append({'role': 'user', 'content': notes})
     interview_notes, tokens = chatbot(conversation)
-    save_file('logs/log_%s_interviewprep.txt' % time(), interview_notes)
+    save_file('logs/log_{}_interviewprep.txt'.format(get_current_date_formatted()), interview_notes)
     print(interview_notes)
 
     ## ONLINE PRESENCE AND RELATED JOBS
@@ -152,5 +151,5 @@ if __name__ == '__main__':
     conversation.append({'role': 'system', 'content': open_file('system_05_careercoach.md')})
     conversation.append({'role': 'user', 'content': notes})
     career_recommendations, tokens = chatbot(conversation)
-    save_file('logs/log_%s_careercoach.txt' % time(), career_recommendations)
+    save_file('logs/log_{}_careercoach.txt'.format(get_current_date_formatted()), career_recommendations)
     print(career_recommendations)

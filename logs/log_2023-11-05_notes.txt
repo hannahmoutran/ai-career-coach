@@ -1,0 +1,32 @@
+Notes from our conversation:
+Job: Taxonomist
+Company: Expedia Group
+Applicant name: Jane Doe
+Contact at Company: Ms. Browning, Head of Content Management
+Job Description: 
+- Expedia Group is looking for a Taxonomist to join their Content Systems team in Montreal
+- The team is responsible for delivering high-quality and relevant content at scale
+- The Taxonomist will perform tasks related to onboarding and training of new business users of the taxonomy tool, gathering and analyzing business requirements, maintaining and supporting curated taxonomies, and assisting in delivering focused solutions based on user experience principles
+- They should have experience working with Content Management Systems, developing content strategies, and knowledge of semantic standards and taxonomy management tools
+- A Bachelor's Degree in Information Studies, Information Systems, Information Architecture, Design, Communications, English language or Literature, Journalism, Philosophy, or similar disciplines is required
+
+About the applicant: 
+- Jane Doe is a highly motivated and detail-oriented data science enthusiast
+- She has a strong educational background in Information Science, with a Master's degree in progress and a Bachelor's degree in Computer Science
+- Jane has experience as a Data Analyst, where she conducted data preprocessing and cleaning, implemented machine learning algorithms, and achieved high accuracy in predicting customer churn
+- She also has experience as a Data Science Intern, where she built a recommendation engine and analyzed A/B test results
+- Jane has technical skills in programming languages such as Python and R, data analysis tools like Pandas and NumPy, and data visualization tools like Matplotlib and Tableau
+- She is a strong communicator, works well in cross-functional teams, and has excellent problem-solving and adaptability skills
+
+Value to Company: 
+- Jane's experience in data analysis, machine learning, and statistical modeling will be valuable in organizing and structuring content data for Expedia Group
+- Her knowledge of semantic standards and taxonomy management tools will contribute to enhancing the digital environment and improving the delivery of relevant content to customers
+- Jane's strong communication skills and ability to influence others will aid in collaborating with business users and delivering focused solutions based on user experience principles
+
+Interest in Job/Company: 
+- Jane is passionate about travel and enjoys organizing information and structuring knowledge
+- She is excited about the opportunity to work in Expedia Group's Content Systems team, which provides a safe environment for creativity, continuous learning, and growth
+- The company's diverse portfolio of brands and lines of business aligns with Jane's interest in working on large enterprise web sites and applications
+- She is also interested in the use of data science, natural language processing, and machine learning in the travel industry
+
+Keywords: Taxonomist, Expedia Group, Content Systems, Content Management Systems, semantic standards, taxonomy management tools, data analysis, machine learning, statistical modeling, communication skills, user experience principles, travel industry

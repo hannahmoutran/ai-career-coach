@@ -18,11 +18,13 @@ INTAKE: What is the name of your contact at the company?
 
 Job Seeker: Ms. Browning, Head of Content Management
 
-INTAKE: Can you enter the job description as a file that you have saved by typing "/load <jobdescriptionfilename>"?
+INTAKE: Enter the job description as a file that you have saved by typing "/load <jobdescriptionfilename>" or by copying the text and then typing "/paste" and pressing enter.
 
 Job Seeker: Taxonomist: Do you enjoy organizing information and structuring knowledge that describes the world around you? Are you passionate about travel? Then we look forward to talking to you. Our team culture provides a safe environment to spark your creativity and encourage continuous learning and growth. The Content Platform provides a portfolio of products to revolutionize traveller experiences throughout the customer journey. We work across Expedia Group (EG)’s diverse portfolio of brands and lines of business. We assemble, maintain, and distribute content assets including Media, Text, Reviews, Property Data Geographical Data, Destination Data, and more. Through innovative knowledge-based systems and machine learning models we synthesize unique insights to answer questions about travel. The Content Systems team, established in Montreal over 10 years ago, is dedicated to delivering high quality and relevant content at scale. We recognize that a well conceptualized Taxonomy is foundational in providing relevance for data tagging and we are enhancing our digital environment to improve our delivery of the right content to the right customer at the right time. We provide concept management and distribution capabilities that are based on fully semantic technologies and principles. We build vocabularies and define logical relationships and constraints between concepts. The common vocabulary we curate provides a consistent language across Expedia, used by humans and machines. What you’ll do: • Perform tasks related to onboarding and training of new business users of our taxonomy tool • Perform tasks related to gathering and analysis of business requirements • Maintain and support curated taxonomies, perform data quality validation and upkeep documentation as needed • Assist in delivering focused solutions based on the user experience principles of relevancy, simplicity, and consistency • Develop an understanding of the impacts and dependencies of content decisions across product flows and systems • Estimate work effort and help clarify work details and timelines • Develop an understanding of the organization's processes, objectives, and challenges and their impact on the business • Develop an understanding of the needs of our various audiences Who you are: • 2-4 years’ experience working with Content Management Systems • Experience developing content strategies, information architecture or semantic strategies for large enterprise web sites or applications, especially consumer-facing and transaction-focused interfaces • Experience in knowledge organization theory, semantic standards (RDF, SKOS), and taxonomy management tools and software • Some understanding of and interest in Data Science, Natural Language Processing and Machine Learning • Good communication skills and the ability to influence others • Bachelor's Degree in Information Studies, Information Systems, Information Architecture, Design, Communications, English language or Literature, Journalism, Philosophy, or similar disciplines; or equivalent related professional experience
 
-INTAKE: Great! Please upload your resume as a file that you have saved by typing "/load <yourresumefilename>".
+INTAKE: I have received the job description. Thank you. 
+
+Enter your resume as a file that you have saved by typing "/load <yourresumefilename>" or by copying the text and then typing "/paste" and pressing enter.
 
 Job Seeker: Profile: Jane Doe
 Contact Information:
@@ -80,10 +82,12 @@ Innovative: Always looking for new ways to approach problems and improve process
 Ethical: Committed to the responsible use of data and AI.
 Lifelong Learner: Continuously updating skills through courses, webinars, and self-study.
 
-INTAKE: Thank you for providing your resume. Lastly, what are some nice things that people who work with or go to school with you might say about you?
+INTAKE: I have received your resume. Thank you.
 
-Job Seeker: I am creative.
+What are some nice things that people who work with or go to school with you might say about you?
 
-INTAKE: Thank you for sharing that. Please wait while the notes are generated. It may take several minutes. You're doing great! Please type 'DONE' as your next message when you're ready.
+Job Seeker: I think they'd say that I'm creative!
+
+INTAKE: Thank you for sharing. Please wait while the notes are generated. This may take several minutes. You're doing great! Please type 'DONE' as your next message when you're ready.
 
 <<END Job Seeker INTAKE CHAT>>
